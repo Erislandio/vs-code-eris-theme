@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "erislandio"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# vs code 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## instalação
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### clone
 
-**Enjoy!**
+- apenas clone esse repositório e cole no caminho a seguir.
+
+### path
+
+- `C:\Users\${user}\.vscode\extensions`
+
+user == usuário do computador
+
+### conclusão
+
+- feito isso agora voce pode visualizar o tema disponivel em seu vscode -> ctrl+k ctrl+T -> erisandio (nome do tema)
+
+#### pronto!
